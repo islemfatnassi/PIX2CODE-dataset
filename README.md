@@ -15,6 +15,21 @@ It focuses specifically on **web-based (HTML/CSS) interfaces**, extracted and or
 - Prepared it to be used for machine learning tasks
 - Part of my experimentation on UI understanding
 
+
+## 🖼️ Examples from the Dataset
+
+Here are a few sample images from the dataset:
+
+### Example 1
+![Example 1](examples/example1.png)
+
+### Example 2
+![Example 2](examples/example2.png)
+
+### Example 3
+![Example 3](examples/example3.png)
+
+
 ## 📌 Author
 
 👤 Islem Fatnassi  
