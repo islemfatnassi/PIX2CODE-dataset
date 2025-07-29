@@ -24,10 +24,13 @@ Here are a few sample images from the dataset:
 ![Example 1](all_data/00150311-A7AE-4804-8B7D-9273687B4FC0.png)
 
 ### Example 2
-![Example 2](examples/example2.png)
-
-### Example 3
-![Example 3](examples/example3.png)
+![Example 2](all_data/02C4C780-79EA-43F1-B2AE-3A2C757F874C.png
+)
+<h3>📸 Sample Images</h3>
+<p>
+  <img src="all_data/00150311-A7AE-4804-8B7D-9273687B4FC0.png" width="200" />
+  <img src="all_data/02C4C780-79EA-43F1-B2AE-3A2C757F874C.png" width="200" />
+</p>
 
 
 ## 📌 Author
