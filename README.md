@@ -21,7 +21,7 @@ It focuses specifically on **web-based (HTML/CSS) interfaces**, extracted and or
 Here are a few sample images from the dataset:
 
 ### Example 1
-![Example 1](00150311-A7AE-4804-8B7D-9273687B4FC0.png)
+![Example 1](all_data/00150311-A7AE-4804-8B7D-9273687B4FC0.png)
 
 ### Example 2
 ![Example 2](examples/example2.png)
